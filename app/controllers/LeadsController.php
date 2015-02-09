@@ -15,7 +15,7 @@ class LeadsController extends \BaseController {
 	 */
 	public function index()
 	{
-		//
+		//return "Hello";
 	}
 
 

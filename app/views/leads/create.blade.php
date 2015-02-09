@@ -11,7 +11,7 @@
 
 			<h2>Post request to create a lead</h2>
 
-			{{ Form::open(['url'=>'http://eomarfoodlaravel.cangostudios.com/leads/']) }}
+			{{ Form::open(['url'=>'http://eomarfoodlaravel.cangostudios.com/leads']) }}
 
 				<div class="form-group">
 					<label for="name">Name:</label> 
