@@ -59,7 +59,7 @@ class LeadsController extends \BaseController {
 		// email to Omer TODO: DONT FORGET TO CHANGE IT TO OMERS EMAIL
 		Mail::send('emails.leads.adminnotify', $input, function($message)
 		{
-			$message->to('babaoglu.can@gmail.com')->subject('EomarFood.com Lead');
+			$message->to('omer@eomarfood.com')->subject('EomarFood.com Lead');
 		});
 
 		// email to prospect
