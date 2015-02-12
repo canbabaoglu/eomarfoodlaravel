@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'babaoglu.can@gmail.com', 'name' => 'EomarFoodWebsite'),
+	'from' => array('address' => 'info@eomarfood.com', 'name' => 'eomarfood.com'),
 
 	/*
 	|--------------------------------------------------------------------------
